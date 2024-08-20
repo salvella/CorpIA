@@ -1,0 +1,287 @@
+Indent,Function,Type,Data
+1,	corpia_example_agent,>>>>,
+1,	corpia_example_agent,----,"Prompt: 
+Imagine you are in the position of the US President, would you have escalated the Vietnam War and sent more US soldiers or would you have taken some other route and justify your decisions."
+1,	corpia_example_agent,----,"Output: 
+As President, I would not escalate the Vietnam War by sending additional U.S. soldiers. Instead, I would pursue a strategy centered on diplomacy and seeking a negotiated settlement. My decision would be based on the following justifications:
+
+### 1. **Historical Lessons**
+The painful lessons from prolonged military engagements, particularly in World War I, serve as a stark reminder of the consequences of escalation. The British War Cabinet's challenges with decision-making and public opinion highlighted the dangers of overcommitting to military operations without clear objectives. History shows that escalating troop levels often leads to quagmire and increased casualties without a corresponding probability of success. With this understanding, I would prioritize diplomatic dialogue and negotiation to resolve conflicts rather than exacerbate them.
+
+### 2. **Public Sentiment and Its Weight**
+During the Vietnam War, public opinion shifted dramatically against the conflict, evidenced by widespread protests and rising dissent among the American populace. Engaging with the public and regularly assessing sentiment through polls and community engagements would be crucial. The appetite for continued military involvement appeared to dwindle, making it essential for me as a leader to align decisions with the will of the people. Maintaining public support is fundamental during military conflicts, especially when American lives are at stake. 
+
+### 3. **Strategic Context and Military Efficacy**
+A thorough analysis of the strategic context in Vietnam reveals the significant capacities of both U.S. and Viet Cong forces. Escalation may not yield the desired military objectives as it risks entrenching the U.S. further in an unwinnable conflict with no clear path to victory. Instead of sending more troops, I would focus on supporting and enhancing the capabilities of the South Vietnamese military, empowering them to assume greater responsibility for defending their country.
+
+### 4. **Timeliness in Decision-Making**
+The importance of making timely, informed decisions cannot be overstated. Establishing a system for regular assessment of the situation on the ground would allow for proactive engagement and support the exploration of negotiation avenues. A series of timely decisions can prevent regrettable escalations that could cost lives and prolong the conflict unnecessarily.
+
+### 5. **Consideration of Alternative Strategies**
+Instead of troop escalation, I would explore several alternative measures:
+   - **Initiating Diplomatic Negotiations**: Direct engagement with the Viet Cong or through intermediaries could create pathways to negotiation, addressing the root causes of the conflict.
+   - **Strengthening Local Forces**: Focusing on training, equipping, and supporting South Vietnamese forces would ensure they can effectively manage their own defense.
+   - **Increasing Economic Support**: Channeling economic assistance to South Vietnam could foster stability, improve governance, and reduce insurgency motivations.
+   - **Encouraging Multilateral Regional Cooperation**: Engaging regional Allies could build a collaborative stance against common threats while ensuring a united front.
+
+### 6. **Long-Term Ramifications**
+In scrutinizing the long-term consequences, the potential escalation could result in a cyclical pattern of increasing casualties, subsequent public backlash, and an overarching destabilization of the region. The goal should be a resolution that respects Vietnam’s sovereignty and ameliorates U.S. interests without further military entanglement. A diplomatic approach would nurture peace and potentially decrease hostilities in the region over time.
+
+### 7. **Engagement with Key Stakeholders**
+I would actively engage with military advisors, political leaders, and public representatives to establish a consensus on the chosen path forward. This collaborative approach allows for a more rounded understanding of the situation and fosters unity among decision-makers, which is vital given the complexity of the conflict.
+
+### Conclusion
+In conclusion, my decision would lean firmly towards de-escalation rather than troop increases. By prioritizing diplomatic strategies and supporting local capacities, I would seek to address the Vietnam conflict comprehensively. This decision would reflect a commitment to long-term peace and sustained regional stability, emphasizing that military presence alone does not guarantee success. Adopting such a strategy demonstrates responsible leadership that values not only military but also diplomatic and economic tools in achieving national objectives."
+1,	corpia_example_agent,----,"Mentor: 
+As a mentor providing feedback on your approach to the Vietnam War situation as described, your emphasis on diplomacy and a reluctance to escalate military involvement is commendable. Below are some points of advice that can enhance your strategy and decision-making process further:
+
+### 1. **Emphasize Multi-Faceted Diplomacy**
+While you rightly advocate for diplomatic dialogue, consider expanding this approach to include various facets of diplomacy. Cultivating relationships with not just the opposing forces, but also regional powers, allies, and other stakeholders can provide a more robust framework for negotiation. Engaging neutral parties or experts in conflict resolution may yield innovative solutions.
+
+### 2. **Engagement with Civil Society**
+Beyond considering public sentiment, actively involving civil society organizations in your strategy can offer crucial insights into the ground realities of the conflict. Engaging with local leaders, community groups, and international NGOs can bridge gaps in understanding and help build trust among different factions.
+
+### 3. **Flexibility in Military Strategy**
+While scaling back troop levels and focusing on supporting local forces is a well-rounded approach, remain flexible in your military strategy. Situations can change rapidly in conflict zones; thus, having the option to adapt your military footprint based on evolving conditions can prove essential. Seek contingency plans that allow you to respond dynamically while keeping escalation as a last resort.
+
+### 4. **Transparent Communication**
+Maintain open lines of communication regarding the rationale behind your decisions, both domestically and internationally. Clear communication can bolster public support and help manage expectations regarding military actions and diplomatic negotiations. It is crucial that the American people understand the rationale behind prioritizing diplomacy to foster greater acceptance of your strategy.
+
+### 5. **Focus on Long-Term Peacebuilding**
+In addition to immediate conflict resolution, emphasize strategies that lay the groundwork for long-term peace. This could include initiatives aimed at economic development, education, and reconciliation programs that both support South Vietnam and address the root causes of insurgency. Incorporating a peacebuilding agenda into your diplomatic efforts can promote sustainable stability.
+
+### 6. **Analyze Historical Context Deeply**
+While you reference historical lessons from World War I, it may also be beneficial to analyze other relevant historical conflicts and resolutions. Evaluate how similar disputes were resolved in different contexts, examining both successful and unsuccessful attempts to negotiate peace. These case studies can inform and strengthen your approach.
+
+### 7. **Promote Grassroots Involvement**
+Encourage grassroots participation in creating solutions to the Vietnam conflict. This can empower local populations and foster ownership over peace efforts. When communities feel invested in the peace process, they are more likely to support and uphold the agreements reached.
+
+### Conclusion
+Overall, your intent to prioritize diplomacy and support local forces reflects a thoughtful, ethical framework for addressing the complexities of the Vietnam War. By incorporating a broader view of diplomacy, maintaining flexibility in your military approach, engaging with various stakeholders, and focusing on long-term solutions, you can foster a more comprehensive strategy that not only seeks to de-escalate the situation but also promotes enduring peace and stability in the region. Your role as a leader in such challenging times is impactful, and with these adjustments, your strategy can serve as a powerful model for responsible governance."
+1,	corpia_example_agent,----,"Prompt: 
+Imagine you are in the position of the US President. How would you have handled the Cuban Missile crisis and justify your decisions."
+1,	corpia_example_agent,----,"Output: 
+If I were in the position of the U.S. President during the Cuban Missile Crisis in October 1962, my approach would prioritize strategic decision-making, clear communication, and a commitment to avoiding conflict while standing firm against aggression. Here’s how I would handle the situation, along with justifications for each decision:
+
+### Step 1: Establish Context and Objectives
+**Goal Definition:** My primary objectives would be to prevent the use of nuclear weapons, ensure the security of the United States and its allies, and shift the crisis towards a diplomatic resolution rather than military confrontation.
+
+**Mission Statement:** “To protect national interests and maintain peace through decisive and measured responses, prioritizing diplomacy while reinforcing our commitment to defense.”
+
+**Justification:** Clearly defined goals keep the response focused, enabling the team to remain committed to peace while prepared for potential adversities.
+
+### Step 2: Gather Information
+**Comprehensive Data Collection:** I would convene the Executive Committee of the National Security Council (ExComm), comprising military leaders, CIA officials, and diplomatic advisors to gather and review all intelligence reports on Soviet missile capabilities in Cuba.
+
+**Justification:** Accurate and comprehensive intelligence is crucial for understanding the nature and extent of the threat. This prevents misinformation and hedges against panic-driven decisions.
+
+### Step 3: Evaluate Response Options
+**Options Analysis:** I would assess a variety of response strategies, including:
+- A military airstrike on the missile sites.
+- A naval blockade to prevent further military supplies from reaching Cuba.
+- Diplomatic negotiations to de-escalate tensions.
+
+**Criteria for Evaluation:**
+- Risk of nuclear engagement
+- Potential for escalation of military conflict
+- Impact on U.S.-Soviet relations and global geopolitics
+- Support and consensus among allies
+
+**Justification:** Evaluating options carefully ensures that the selected response is determined by a thorough understanding of implications rather than emotional reactions or political pressures.
+
+### Step 4: Consult Key Stakeholders
+**Engagement:** I would involve key advisors in decision-making discussions, encouraging input from diverse perspectives—military, diplomatic, and intelligence.
+
+**Justification:** This collaborative approach fosters trust and shared responsibility, strengthening the decision and ensuring it is well-informed.
+
+### Step 5: Decide on a Course of Action
+**Decision:** After careful consideration, I would choose to implement a naval blockade (quarantine) of Cuba, coupled with a strong diplomatic message warning the Soviet Union of the U.S. resolve to protect its national security.
+
+**Justification:** A blockade serves as a show of strength without an immediate military strike, thereby reducing the chances of escalating to nuclear conflict while still demonstrating resolve.
+
+### Step 6: Implement the Decision
+**Dominate Communication:** I would ensure that my rationale and plans regarding the blockade are clearly articulated to the American public and international allies. 
+
+**Establish Chain of Command:** Clear roles and responsibilities would be assigned to military and defense leaders to ensure that the blockade is executed without confusion or delay.
+
+**Justification:** Clear and transparent communication maintains public support and mitigates domestic anxiety. A well-defined command structure ensures effective implementation.
+
+### Step 7: Monitor and Adapt
+**Continuous Evaluation:** I would establish a system for continuous monitoring of Soviet actions in response to the blockade, allowing for real-time intelligence updates.
+
+**Adaptability:** Should the Soviets respond aggressively, we must be prepared to adapt our strategy—whether that means increasing the blockade's intensity or seeking negotiations.
+
+**Justification:** Ongoing assessment ensures that we can effectively respond to the evolving situation, maintaining strategic flexibility while aiming for a peaceful resolution.
+
+### Step 8: Reflect and Learn
+**Post-Crisis Debriefing:** After resolution, I would organize a debriefing to analyze our actions and decisions during the crisis, documenting successes and areas for improvement.
+
+**Justification:** Reflecting on the crisis contributes to learning and prepares us better for future scenarios, enhancing our crisis management capabilities.
+
+### Conclusion
+Navigating the Cuban Missile Crisis requires a combination of informed deliberation, proactive diplomatic engagement, and clear communication. By aligning our actions with established objectives and maintaining open channels with advisors and the public, I would aim not only for a peaceful resolution but also to reinforce the United States' credibility and resolve on the global stage. Ultimately, the decisions made in this high-stakes scenario would underscore the balance between strength, patience, and diplomacy, demonstrating our commitment to peace while standing firm against aggression."
+1,	corpia_example_agent,----,"Mentor: 
+As a mentor providing ethical advice in the role of Winston Churchill during the Cuban Missile Crisis, here are several points to consider that leverage your historical knowledge, experience, and personal values toward effective leadership, strategic decision-making, and ethical conduct:
+
+### 1. Emphasize Historical Context
+As someone who understands profound historical implications, remind yourself of the lessons learned during WWII and the importance of legacy. Evaluate the decisions made at that time that either escalated or de-escalated conflicts. Your past experiences can guide today’s choices, highlighting that the consequences can extend far beyond immediate outcomes.
+
+### 2. Prioritize Moral Responsibility
+In your role, always remember the moral weight of decisions made during the Cuban Missile Crisis hinged on the lives of millions. Approach each decision with a solid ethical foundation—consider the human impact of military action versus diplomatic efforts. Balance national security concerns with humanitarian considerations, ensuring decisions reflect the best values of your nation.
+
+### 3. Foster Transparent Communication
+Clear and honest communication with both internal stakeholders and the public is essential. Acknowledge differing views within your cabinet and make a concerted effort to bring those perspectives into the decision-making process. This historical ethos of inclusivity and transparency can cultivate trust and mitigate panic or misinformation among citizens.
+
+### 4. Uphold Integrity and Honor
+You are a model of resilience and integrity; embody those traits during moments of crisis. Always communicate the rationale behind your decisions to ensure they are rooted in genuine national interest and long-term peace. By doing so, you honor not only your own leadership but also the sacrifices of those who have come before you.
+
+### 5. Champion Diplomacy
+Remember that diplomacy does not signify weakness; rather, it often reflects the strongest kind of leadership. Stand by your commitment to pursue diplomatic avenues alongside military readiness. Reflect on your understanding of international relations and military history to seek pathways that prioritize dialogue, negotiation, and compromise.
+
+### 6. Cultivate Strategic Patience
+In moments of heightened tensions, a steady hand can yield more significant results than quick, aggressive actions. Just as you demonstrated during WWII, exercise patience and courage. Develop the strategic foresight to consider both immediate and long-term implications of your decisions, enabling more sustainable outcomes.
+
+### 7. Learn from Every Scenario
+After each engagement, conduct thorough debriefing sessions to assess not only the effectiveness of actions taken but also areas that need improvement. This approach fosters continuous learning and progression, and prepares you for future challenges, reinforcing the idea that experience is a powerful teacher.
+
+### Conclusion
+By integrating these ethical considerations into your leadership approach during the Cuban Missile Crisis, you will embody the values that made Churchill a notable figure in history. Demonstrating strength through diplomacy, upholding moral responsibility, and prioritizing transparent communication will not only help in managing the current crisis but will also define your legacy for times to come. Commit to being a leader that not only secures national interests but also represents the ethical ideals of peace and integrity in the face of conflict."
+1,	corpia_example_agent,----,"Prompt: 
+Imagine you are in the position of the US President. How would you have handled the Russian invasion of Ukraine in 2014 and in 2022 and justify your decisions."
+1,	corpia_example_agent,----,"Output: 
+As the President of the United States, my approach to handling the Russian invasion of Ukraine in both 2014 and 2022 would emphasize a multifaceted strategy of diplomacy, economic sanctions, military support, and coalition-building. Each response would be tailored to the specific context and dynamics of the situation.
+
+### Handling the Russian Invasion of Ukraine in 2014:
+
+1. **Set Clear Objectives:**
+   - **Action:** Emphasize restoring Ukraine’s territorial integrity following the annexation of Crimea.
+   - **Justification:** Clear objectives guide effective policy decisions and unify the international response.
+
+2. **Build a Coalition:**
+   - **Action:** Quickly convene a summit with NATO allies and key partners in Europe.
+   - **Justification:** A united front enhances diplomatic pressure and credibility in addressing Russian aggression.
+
+3. **Implement Prompt Economic Sanctions:**
+   - **Action:** Enact immediate sanctions targeting specific sectors of the Russian economy, particularly finance and energy.
+   - **Justification:** Timely sanctions demonstrate resolve and leverage economic pressure to inhibit further aggression while signaling international disapproval.
+
+4. **Strengthen NATO’s Eastern Flank:**
+   - **Action:** Increase military presence in Eastern Europe, including troop deployments and military exercises in Poland and the Baltic states.
+   - **Justification:** A demonstrated commitment to allied security reassures NATO members and deters further Russian actions.
+
+5. **Support Ukraine:**
+   - **Action:** Provide Ukraine with defensive military assistance and non-lethal supplies, while also delivering humanitarian aid.
+   - **Justification:** Supporting Ukraine’s right to self-defense reinforces international law and underpins democratic values.
+
+6. **Maintain Open Communication:**
+   - **Action:** Initiate back-channel communications with the Kremlin.
+   - **Justification:** Open lines help to reduce tensions and miscalculations, providing avenues for diplomatic engagement if required.
+
+7. **Counter Misinformation:**
+   - **Action:** Launch campaigns to counteract Russian propaganda.
+   - **Justification:** Ensuring accurate narratives are available supports public understanding and strengthens domestic resolve.
+
+8. **Encourage Diplomatic Solutions:**
+   - **Action:** Engage in negotiations with Russia through multilateral channels like the OSCE to seek a peaceful resolution.
+   - **Justification:** While military power may be necessary, diplomatic dialogue remains essential for a sustainable peace.
+
+### Handling the Russian Invasion of Ukraine in 2022:
+
+1. **Reassert Clear Objectives:**
+   - **Action:** Define objectives that not only aim to repel the invasion but also to secure long-term sovereignty for Ukraine.
+   - **Justification:** Reinforcing commitment to these goals serves to unify international efforts and strengthen resolve.
+
+2. **Strengthen International Coalitions:**
+   - **Action:** Rally a broader coalition involving non-NATO allies and engage the global community through forums like the G20.
+   - **Justification:** A comprehensive coalition magnifies economic sanctions and military support, demonstrating collective opposition to aggression.
+
+3. **Expand Economic Sanctions:**
+   - **Action:** Enforce comprehensive sanctions across multiple sectors, including technology, defense, and energy—a stronger response than in 2014.
+   - **Justification:** A robust sanctions regime has a compounded impact on the Russian economy, aiming to diminish resources available for military endeavors.
+
+4. **Enhance NATO Military Presence:**
+   - **Action:** Deploy additional NATO forces to Eastern Europe and enhance strategic capabilities across the alliance.
+   - **Justification:** Increased military readiness deters further escalation and reassures NATO allies of U.S. commitment to their defense.
+
+5. **Provide Comprehensive Support to Ukraine:**
+   - **Action:** Deliver advanced military equipment, intelligence support, and extensive humanitarian assistance.
+   - **Justification:** Empowering Ukraine militarily helps it maintain territorial integrity and defends democratic values against aggression.
+
+6. **Reinforce Communication Strategies:**
+   - **Action:** Maintain frequent dialogue with international leaders, including comprehensive updates and strategies to manage tensions with Russia.
+   - **Justification:** Regular communication helps align responses and promotes transparency among allies.
+
+7. **Combat Misinformation:**
+   - **Action:** Intensify efforts to counter misinformation and support public awareness campaigns regarding the conflict.
+   - **Justification:** Countering disinformation upholds democratic discourse and encourages international solidarity against aggression.
+
+8. **Pursue Long-Term Solutions:**
+   - **Action:** Formulate a plan for Ukraine’s post-war recovery and integration into European institutions.
+   - **Justification:** Long-term support that includes economic recovery and security will facilitate stability in Ukraine and prevent future conflicts.
+
+9. **Evaluate and Adapt Strategies:**
+   - **Action:** Establish a dedicated task force to assess the situation regularly and adapt strategies as circumstances evolve.
+   - **Justification:** Continuous evaluation ensures that responses remain effective and relevant to the geopolitical landscape.
+
+### Conclusion:
+My decisions as President would demonstrate a resolute commitment to supporting Ukraine, deterring Russian aggression, and upholding international law and democratic values. By combining diplomatic efforts, military readiness, economic sanctions, and humanitarian support, my administration would effectively navigate the complexities of the conflicts while fostering global unity against manifest aggression, paving the way for stability in Europe and beyond."
+1,	corpia_example_agent,----,"Mentor: 
+As Winston Churchill, a historical figure renowned for his leadership during tumultuous times, here is my ethical advice regarding your approach to handling the Russian invasion of Ukraine:
+
+### Emphasizing Ethical Leadership
+
+1. **Integrity in Diplomacy:**
+   - Uphold the principles of honesty and transparency in all diplomatic communications. This builds trust among allies and strengthens international coalitions. Just as I believed in the importance of an unyielding truth, so must you in your approach to alliances and negotiations.
+
+2. **Empathy for the People of Ukraine:**
+   - Beyond strategic objectives, consider the humanitarian impacts of the invasion. The plight of Ukrainians should remain at the forefront of your decisions. During my tenure, I often emphasized the human cost of conflict. Make sure your policy reflects a deep understanding of the suffering caused by war.
+
+3. **Long-term Vision:**
+   - While responding to immediate threats is essential, your strategy should also encompass long-term stability for Ukraine and surrounding regions. This mirrors my commitment to post-war recovery and reshaping Europe, ensuring nations have the tools to thrive in peace rather than merely surviving in conflict.
+
+4. **Promoting Democratic Values:**
+   - Reinforce the importance of democracy and self-determination in your rhetoric and actions. The fight against authoritarianism should be a cornerstone of your strategy, resonating with the values that inspire both domestic and international support.
+
+5. **Accountability and Oversight:**
+   - As you implement sanctions and military support, ensure that these measures are subject to moral and ethical scrutiny. I believed in holding leaders accountable for their decisions, and I encourage you to do the same with respect to the consequences of your policies on all affected populations.
+
+### Enhancing Strategic Approaches
+
+1. **Humanitarian Support as a Priority:**
+   - Explore the possibilities of expanding humanitarian efforts in conjunction with military support. Assisting civilians not only serves ethical imperatives but enhances your standing in the eyes of the international community.
+
+2. **Collaboration Over Confrontation:**
+   - Seek opportunities for dialogue, even with adversaries, while remaining firm in your stance against aggression. This aligns with my belief in resilience and the necessity of striving for a dialogue, which can sometimes lead to breakthroughs even amidst conflict.
+
+3. **Stewardship of Global Peace:**
+   - Take an active role in global forums aimed at reducing conflict and fostering understanding among nations. Just as I sought to forge alliances for collective security, you must aim to be an arbiter for peace on a global stage.
+
+### Conclusion:
+
+Your approach to the complexities of the Russian invasion should embody a blend of resolve and compassion, grounded in ethical leadership. By setting a precedent of integrity, empathy, and long-term vision, you have the potential to inspire not only your nation but also the international community to stand united against aggression and in favor of human dignity and democracy. As I have always maintained, we must be steadfast in our convictions while wielding our influence judiciously for the greater good."
+1,	corpia_example_agent,----,"Prompt: 
+What are your greatest achievements?"
+1,	corpia_example_agent,----,"Output: 
+As Winston Churchill, my achievements are numerous and span both my political career and literary contributions. To articulate them effectively, I would follow a structured approach:
+
+1. **Leadership During Wartime**: One of my most significant achievements was serving as the Prime Minister of the United Kingdom during World War II (1940-1945). Under my leadership, I forged a coalition that united the British people in the fight against tyranny, culminating in the Allied victory in 1945. My powerful speeches, such as ""We shall fight on the beaches,"" rallied the nation and inspired resilience in the face of adversity.
+
+2. **Collaboration for Success**: I believed deeply in the importance of collaboration. During my tenure, I worked closely with allies across the globe—including President Franklin D. Roosevelt and Premier Joseph Stalin—to forge essential wartime partnerships. These collaborative efforts were crucial in strategizing military successes, such as the D-Day invasion.
+
+3. **Crisis Management and Strategic Planning**: My ability to navigate complex situations was evident during the Great Depression and the buildup to the war. I developed policies that not only addressed immediate concerns but also laid the groundwork for recovery and resilience, demonstrating foresight in governance and crisis management.
+
+4. **Prolific Writing Career**: Beyond politics, I was passionate about literature, which was acknowledged with the Nobel Prize in Literature in 1953. My works, including ""The Second World War"" and ""A History of the English-Speaking Peoples,"" reflected not only my historical insights but also my narrative skills, helping to shape public understanding of significant events.
+
+5. **Organizational Skills in Governance**: Managing the complexities of wartime governance required exceptional organizational skills. I established systems for effective communication and decision-making across various branches of government. For instance, I oversaw the coordination between military and civil authorities, which was vital to the war effort.
+
+6. **Influence of Mentorship**: Throughout my life, I had the privilege of learning from remarkable mentors, including my parents and teachers. Their guidance fueled my development as a politician and writer. I have always valued mentorship and sought to inspire others in their pursuits, just as I was inspired.
+
+7. **Recognition of Strengths**: Early on, I discovered my aptitude for oratory and storytelling. I honed these skills through practice and application, ultimately delivering speeches that became historically significant. My ability to articulate complex ideas simply and powerfully has been foundational to my public service.
+
+8. **Contextualizing Achievements**: My achievements also reflect the historical and geopolitical context of the 20th century. By understanding the evolving landscape of global politics, I adapted my strategies, responding not only to immediate threats but also to long-term impacts on world stability and peace.
+
+### Conclusion:
+In summary, my greatest achievements—leading the nation during WWII, collaborating for strategic successes, managing crises effectively, contributing to literature, and mentoring others—are a testament to my dedication to public service and the belief in the power of collective effort and resilience. Each endeavor has been shaped by the context of my times and the influences that guided my journey."
+1,	corpia_example_agent,----,"Mentor: 
+"
+1,	corpia_example_agent,<<<<,
